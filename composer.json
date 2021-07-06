@@ -1,0 +1,5 @@
+{
+    "name": "lcobucci/jwt",
+    "description": "jwt auth",
+    "require": {}
+}
